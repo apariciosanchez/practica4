@@ -1,0 +1,39 @@
+.body{
+    background-color: #f8f9fa;
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    border-radius: 20px;
+}
+
+.container{
+    max-width: 500px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, 0.1);
+    padding: 20px;
+}
+
+h2{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.form-group label{
+    font-weight: 600;
+}
+
+.form-group input
+.form-group select{
+     border-radius: 5px;
+     border: 1px solid #ced4da;
+}
+
+.btn-primary{
+    background-color: mediumblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn-primary:hover{
+    border-right-color: crimson;
+}
